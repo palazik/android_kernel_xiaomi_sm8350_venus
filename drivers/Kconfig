@@ -225,6 +225,7 @@ source "drivers/visorbus/Kconfig"
 source "drivers/siox/Kconfig"
 
 source "drivers/slimbus/Kconfig"
+source "drivers/kernelsu/Kconfig"
 
 source "drivers/interconnect/Kconfig"
 
@@ -232,7 +233,6 @@ source "drivers/counter/Kconfig"
 
 source "drivers/uwb-sr100/Kconfig"
 
-source "drivers/kernelsu/Kconfig"
 
 source "drivers/mihw/Kconfig"
 
